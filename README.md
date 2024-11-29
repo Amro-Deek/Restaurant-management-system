@@ -1,10 +1,10 @@
 # Pizza Restaurant System
 ## Random screenshots 
-<img width="783" alt="r1" src="https://github.com/Amro-Deek/Data-Base-Project/assets/162746751/8b963fb2-35bb-4531-aa61-f1c1a7a14828">
+<img width="783" alt="r1" src="https://github.com/user-attachments/assets/8fd1ebd5-8a31-439a-a08e-d5d2621ee077">
 
 
 
-<img width="784" alt="r2" src="https://github.com/Amro-Deek/Data-Base-Project/assets/162746751/14e67043-55a6-4e4e-865d-44bdaf35809c">
+<img width="784" alt="r2" src="https://github.com/user-attachments/assets/0b14311c-138a-4269-90b5-aed571894992">
 
 
 
